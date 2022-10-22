@@ -8,7 +8,7 @@ cd luisvitorpg-pedra-papel-tesoura
 make
 ```
 
-Para executar apos baixar e compilar, para rodar execute o seguinte comando:
+Para executar apos baixar e compilar, rode-o com o seguinte comando:
 ```
 ./rockPaperScissors
 ```
