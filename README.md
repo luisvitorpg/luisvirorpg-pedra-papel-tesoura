@@ -1,4 +1,4 @@
-# Pedra Papel Tesoura em C (Brazillian Portuguese)
+# Pedra Papel Tesoura em C (Portugues Brasileiro)
 Este e um jogo de pedra papel tesoura em C
 
 Para baixar o programa no Linux, execute os seguintes comandos:
